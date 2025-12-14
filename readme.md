@@ -30,6 +30,6 @@ The goal of this project is to demonstrate a hybrid agent architecture:
 app/
   agent.py        # LangGraph agent definition
   db.py           # Postgres / Supabase database access
-  tools.py        # Agent tools (DB search, heuristics)
+  tools.py        # Agent tools - DB search, heuristics
   prompts.py      # System prompt and agent instructions
   main.py         # CLI entry point
